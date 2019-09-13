@@ -12,7 +12,7 @@
                 <thead>
                     <tr class="success">
                         <td colspan="2">
-                            Existing User Login
+                            Login
                             <a class="btn btn-success pull-right" href="Register.html">Register</a>
                         </td>
                     </tr>
@@ -44,9 +44,12 @@
     <script src="../Scripts/bootstrap.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function () {
+            // close error message
             $('#linkClose').click(function () {
                 $('#divError').hide('fade');
             })
+
+            // ajax call to get token from api based on username & password
             $('#btnLogin').click(function () {
                 $.ajax({
                     url: '/token',

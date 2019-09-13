@@ -65,9 +65,12 @@
 
     <script type="text/javascript">
         $(document).ready(function () {
+            // close error message
             $('#linkClose').click(function () {
                 $('#divError').hide('fade');
             })
+
+            // ajax call to register user
             $('#btnRegister').click(function () {
                 $.ajax({
                     url: '/api/Account/Register',
