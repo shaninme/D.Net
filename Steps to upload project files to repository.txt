@@ -4,6 +4,7 @@ search Git Bash on Windows and open
 
 Run cd ~
 Run cd (Path where project needs to be placed. eg: C:\Users\Shanin\Documents\Visual Studio 2015\Projects)
+Run git clone (place address of repository)
 Run cd (Name of your repository. eg: D.Net)
 
 Paste your project files which you want to upload in D.Net folder
