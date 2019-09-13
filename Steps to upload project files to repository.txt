@@ -1,0 +1,17 @@
+github -> Copy address of repository
+
+search Git Bash on Windows and open
+
+Run cd ~
+Run cd (Path where project needs to be placed. eg: C:\Users\Shanin\Documents\Visual Studio 2015\Projects)
+Run cd (Name of your repository. eg: D.Net)
+
+Paste your project files which you want to upload in D.Net folder
+
+Run git status (to check any new files need to be uploaded)
+Run git add . (to add all files to the repository)
+Run git commit -m "write some hints" (to commit the changes to the master branch in repository)
+Run git push origin master (to final push the changes to the master branch in repository)
+
+**************************************
+
