@@ -1,0 +1,10 @@
+c:\Users\Shanin\documents\visual studio 2015\Projects\Web.API\Data.Entities\bin\Debug\Data.Entities.dll.config
+c:\Users\Shanin\documents\visual studio 2015\Projects\Web.API\Data.Entities\bin\Debug\Data.Entities.dll
+c:\Users\Shanin\documents\visual studio 2015\Projects\Web.API\Data.Entities\bin\Debug\Data.Entities.pdb
+c:\Users\Shanin\documents\visual studio 2015\Projects\Web.API\Data.Entities\bin\Debug\EntityFramework.dll
+c:\Users\Shanin\documents\visual studio 2015\Projects\Web.API\Data.Entities\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Shanin\documents\visual studio 2015\Projects\Web.API\Data.Entities\bin\Debug\EntityFramework.xml
+c:\Users\Shanin\documents\visual studio 2015\Projects\Web.API\Data.Entities\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Shanin\documents\visual studio 2015\Projects\Web.API\Data.Entities\obj\Debug\Data.Entities.csprojResolveAssemblyReference.cache
+c:\Users\Shanin\documents\visual studio 2015\Projects\Web.API\Data.Entities\obj\Debug\Data.Entities.dll
+c:\Users\Shanin\documents\visual studio 2015\Projects\Web.API\Data.Entities\obj\Debug\Data.Entities.pdb
